@@ -14,8 +14,8 @@ write_files:
   content: |
     Vpm:
       ClusterType: ce
-      ClusterName: #### TO BE REPLACED BY THE F5XC SECURE MESH SITE NAME ####
-      Token: #### TO BE REPLACED BY F5XC API TOKEN ####
+      ClusterName: ce1-demo-pw
+      Token: cf9dcee3-8878-4863-a695-777f57736165
       MauricePrivateEndpoint: https://register-tls.ves.volterra.io
       MauriceEndpoint: https://register.ves.volterra.io
       CertifiedHardwareEndpoint: https://vesio.blob.core.windows.net/releases/certified-hardware/aws.yml
